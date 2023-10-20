@@ -71,3 +71,6 @@
 ![Reverse Engineering (1)](https://img.shields.io/badge/-RE-101010?style=for-the-badge&color=rgba(0%2C0%2C0%2C0.8))
 ![QEMU (1)](https://img.shields.io/badge/-QEMU-101010?style=for-the-badge&logo=qemu&logoColor=f56300&color=rgba(0%2C0%2C0%2C0.8))
 ![SteamDeck Kernel (0)](https://img.shields.io/badge/-SteamDeck%20Kernel-101010?style=for-the-badge&logo=steamdeck&logoColor=1b9dff&color=rgba(0%2C0%2C0%2C0.8))
+![Proton (0)](https://img.shields.io/badge/-Proton-101010?style=for-the-badge&logo=valve&logoColor=f64742&color=rgba(0%2C0%2C0%2C0.8))
+
+
