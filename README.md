@@ -1,80 +1,73 @@
 ♦️ *Always WIP*
 
-## 📚 Lang
+---
 
-### 🧱 Stack (Comfort 0~3)
-```
-- PHP (1)
-- Javascript (3)
-- Web (3)
-- Java (2)
-- Node.js (3)
-- C (1)
-- C++ (1)
-- Typescript (3)
-- C# (2)
-- Powershell (3)
-- Batch (3)
-- Bash (2)
-- lua (1)
-- Kotlin (2)
-- Dart (1)
-- Python3 (2)
-```
+### 📚 Lang
+(order of learn)
 
-### 📑 NextUp
-```
-- Rust (1)
-- Zig (0)
-- Go (0)
-- Mojo (0)
-```
+#### 🧱 Stack
+![PHP (1)](https://img.shields.io/badge/-Php-101010?style=for-the-badge&logo=php&logoColor=7A86B8&color=rgba(0%2C0%2C0%2C0.8))
+![Javascript (3)](https://img.shields.io/badge/-Javascript-101010?style=for-the-badge&logo=javascript&logoColor=f2da1d&color=rgba(0%2C0%2C0%2C0.8))
+![Java (2)](https://img.shields.io/badge/-Java-101010?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBoZWlnaHQ9IjgwMCIgd2lkdGg9IjgwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI%2BPHBhdGggc3R5bGU9ImZpbGw6I2RiMzgwZSIgZD0iTTI1MyA5NWMtMjMgMTctNTAgMzUtNjQgNjctMjUgNTQgNTEgMTEzIDU0IDExNmE0IDQgMCAwIDAgNi01YzAtMS0yNy01NC0yNi05MiAwLTEzIDE5LTI4IDM4LTQ0IDE4LTE1IDM5LTMxIDUwLTUwIDI3LTQzLTItODUtMy04NWE0IDQgMCAwIDAtNyAzczUgMjgtMTAgNTZjLTcgMTItMjEgMjItMzggMzR6Ii8%2BPHBhdGggc3R5bGU9ImZpbGw6I2RiMzgwZSIgZD0iTTM1MyAxMTRhNCA0IDAgMCAwLTQtOGMtNCAyLTk4IDM4LTk4IDgyIDAgMzEgMTMgNDcgMjIgNThsOCAxMmMzIDEwLTQgMjgtNyAzM2E0IDQgMCAwIDAgNiA2YzItMSA0MC0yOCAzMy02MS0yLTEyLTktMjEtMTQtMjktOC0xMi0xNC0yMS01LTM4IDExLTE5IDU5LTU1IDU5LTU1eiIvPjxwYXRoIHN0eWxlPSJmaWxsOiM3M2ExZmIiIGQ9Ik0xMDcgMjk4Yy0xIDUgMCAxMCAzIDE0IDEwIDE0IDQ2IDIyIDEwMiAyMmgyM2M4OS0zIDEyMi0zMSAxMjQtMzJhNCA0IDAgMCAwLTQtOCA2MTIgNjEyIDAgMCAxLTIwNSA2YzMtNCAyMS0xMSA0My0xNWE0IDQgMCAwIDAtMS04Yy0xMyAwLTc4IDEtODUgMjF6TTQwNSAyNzBjLTE5IDAtMzYgOS0zNyA5YTQgNCAwIDAgMCAyIDhjMSAwIDM5IDEgNDMgMjMgMyAxOS0zNyA1MC01MiA2MGE0IDQgMCAwIDAgMyA4YzQtMSA5MC0yMCA4MS03MS01LTMxLTI1LTM3LTQwLTM3ek0zNDUgMzY0YzEtMiAwLTQtMS00bC0yMS0xNS00LTFzLTIyIDYtNTMgMTBsLTQxIDJjLTMxIDAtNTItNC01NS03di0xbDUtNGE0IDQgMCAwIDAtMi04Yy0yMSA1LTMxIDEyLTMxIDIxIDIgMTYgMzggMjQgNjkgMjZoMTRhNTk2IDU5NiAwIDAgMCAxMjAtMTl6TTE4OSAzOTdhNCA0IDAgMCAwLTMtN2MtMyAwLTI3IDEtMjkgMTcgMCA0IDEgOCA0IDEyIDkgMTEgMzMgMTcgNzMgMTlhMjQwIDI0MCAwIDAgMCAxMDEtMTYgNCA0IDAgMCAwIDAtN2wtMjYtMTYtMy0xYTY3MyA2NzMgMCAwIDEtNjAgOGMtMjUgMC01My00LTU4LTdsMS0yeiIvPjxwYXRoIHN0eWxlPSJmaWxsOiM3M2ExZmIiIGQ9Ik0yMjQgNDg3YzExNyAwIDE4MC0yMSAxOTItMzQgNC01IDUtOSA0LTEyIDAtNy03LTExLTgtMTJzLTQtMS01IDF2NWMxIDEgMSAzLTEgNWE2NzQgNjc0IDAgMCAxLTMwMiA3YzMtMyAyMS05IDQxLTEzYTQgNCAwIDAgMC0xLThoLTVjLTMzIDItNzEgNy03MyAyNCAwIDUgMSA5IDUgMTQgOSAxMCAzNCAyMyAxNTMgMjN6Ii8%2BPHBhdGggc3R5bGU9ImZpbGw6IzczYTFmYiIgZD0iTTQzOSA0NTdjLTItMS00LTEtNSAxIDAgMC0xOCAxOC03MCAyOS0yMSA0LTU5IDYtMTEzIDYtNTUgMC0xMDctMi0xMDgtMi0yIDAtNCAxLTQgMyAwIDMgMSA1IDMgNWE2MjUgNjI1IDAgMCAwIDIzNCA0YzYxLTEwIDY1LTQxIDY1LTQyIDEtMiAwLTQtMi00eiIvPjwvc3ZnPg%3D%3D&color=rgba(0%2C0%2C0%2C0.8))
+![C (1)](https://img.shields.io/badge/-C%20Lang-101010?style=for-the-badge&logo=c&logoColor=5a67ba&color=rgba(0%2C0%2C0%2C0.8))
+![C++ (1)](https://img.shields.io/badge/-C%2B%2B-101010?style=for-the-badge&logo=c%2B%2B&logoColor=6197cd&color=rgba(0%2C0%2C0%2C0.8))
+![Typescript (3)](https://img.shields.io/badge/-Typescript-101010?style=for-the-badge&logo=typescript&logoColor=2f74c0&color=rgba(0%2C0%2C0%2C0.8))
+![C sharp (2)](https://img.shields.io/badge/-C%23-101010?style=for-the-badge&logo=csharp&logoColor=8d5991&color=rgba(0%2C0%2C0%2C0.8))
+![PowerShell (3)](https://img.shields.io/badge/-PowerShell-101010?style=for-the-badge&logo=powershell&logoColor=0174b9&color=rgba(0%2C0%2C0%2C0.8))
+![Batch (3)](https://img.shields.io/badge/-Batch-101010?style=for-the-badge&logo=windowsterminal&logoColor=00a8e8&color=rgba(0%2C0%2C0%2C0.8))
+![Bash (2)](https://img.shields.io/badge/-Bash-101010?style=for-the-badge&logo=gnubash&logoColor=48a851&color=rgba(0%2C0%2C0%2C0.8))
+![Lua (1)](https://img.shields.io/badge/-Lua-101010?style=for-the-badge&logo=lua&logoColor=01007d&color=rgba(0%2C0%2C0%2C0.8))
+![Kotlin (2)](https://img.shields.io/badge/-Kotlin-101010?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgOC42NCA4LjYzMyIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9IkEiIHgxPSIyLjAzOSIgeTE9IjExLjY1OSIgeDI9IjkuOTUiIHkyPSIzLjc0OCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iLjEwOCIgc3RvcC1jb2xvcj0iI2M3NTdiYyIvPjxzdG9wIG9mZnNldD0iLjE3MyIgc3RvcC1jb2xvcj0iI2NkNWNhOSIvPjxzdG9wIG9mZnNldD0iLjQ5MiIgc3RvcC1jb2xvcj0iI2U4NzQ0ZiIvPjxzdG9wIG9mZnNldD0iLjcxNiIgc3RvcC1jb2xvcj0iI2Y4ODMxNiIvPjxzdG9wIG9mZnNldD0iLjgyMyIgc3RvcC1jb2xvcj0iI2ZmODkwMCIvPjwvbGluZWFyR3JhZGllbnQ%2BPGxpbmVhckdyYWRpZW50IGlkPSJCIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agb2Zmc2V0PSIuMjk2IiBzdG9wLWNvbG9yPSIjMDBhZmZmIi8%2BPHN0b3Agb2Zmc2V0PSIuNjk0IiBzdG9wLWNvbG9yPSIjNTI4MmZmIi8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOTQ1ZGZmIi8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9IkMiIHgxPSIzLjM2OSIgeTE9IjYuMTg5IiB4Mj0iNi4wNzMiIHkyPSIzLjQ4NCIgeGxpbms6aHJlZj0iI0IiLz48bGluZWFyR3JhZGllbnQgeGxpbms6aHJlZj0iI0IiIGlkPSJEIiB4MT0iNi4xODQiIHkxPSIxMy44NzgiIHgyPSIxMC4wNCIgeTI9IjEwLjAyMiIvPjwvZGVmcz48ZyB0cmFuc2Zvcm09Im1hdHJpeCgxLjAxNjMyNyAwIDAgMS4wMTYzMjcgLTMuNTI3MjYgLTMuOTA5MTIzKSI%2BPHBhdGggZD0iTTcuNzQgMy44NDNMMy40NyA4LjMzdjQuMDEzbDQuMjYyLTQuMjcgNC4yNC00LjIzMnoiIGZpbGw9InVybCgjQSkiLz48cGF0aCBkPSJNMy40NyAxMi4zNDRsNC4yNjItNC4yNyA0LjI0IDQuMjd6IiBmaWxsPSJ1cmwoI0QpIi8%2BPHBhdGggZD0iTTMuNDcgMy44NDNINy43NEwzLjQ3IDguMzN6IiBmaWxsPSJ1cmwoI0MpIi8%2BPC9nPjwvc3ZnPg%3D%3D&color=rgba(0%2C0%2C0%2C0.8))
+![Dart (1)](https://img.shields.io/badge/-Dart-101010?style=for-the-badge&logo=dart&logoColor=2bb4f1&color=rgba(0%2C0%2C0%2C0.8))
+![Python3 (2)](https://img.shields.io/badge/-Python3-101010?style=for-the-badge&logo=python&logoColor=4281b4&color=rgba(0%2C0%2C0%2C0.8))
 
-## 🪛 Service
+#### 📑 NextUp
+![Rust (1)](https://img.shields.io/badge/-Rust-101010?style=for-the-badge&logo=rust&logoColor=ffffff&color=rgba(0%2C0%2C0%2C0.8))
+![Zig (0)](https://img.shields.io/badge/-Zig-101010?style=for-the-badge&logo=zig&logoColor=f3a31c&color=rgba(0%2C0%2C0%2C0.8))
+![Go (0)](https://img.shields.io/badge/-Go-101010?style=for-the-badge&logo=go&logoColor=66d1dd&color=rgba(0%2C0%2C0%2C0.8))
+![Mojo (0)](https://img.shields.io/badge/-Mojo-101010?style=for-the-badge&logo=fireship&logoColor=f39224&color=rgba(0%2C0%2C0%2C0.8))
 
-### 🧱 Stack
-```
-- Forge (1)
-- Android (2)
-- React (3)
-- Vue.js (1)
-- AWS (1)
-- .Net (1)
-- WebGL (1)
-- Unity (1)
-- Nextcloud (2)
-- Network (3)
-- Next.js (3)
-- Nest.js (2)
-- Unreal (1)
-- GCP (3)
-- PostgreSQL (2)
-- Docker (3)
-- NHNcloud-공공기관 (2)
-- Crypto (2)
-- OpenCV (1)
-- strapi (2)
-- Azure (1)
-- Flutter (1)
-- ProxmoxVE (3)
-- LXC (2)
-- LinuxKernel(0.01) (1)
-- win32 (2)
-- Godot (2)
-- sqlite3 (3)
-- PyTorch (1)
-```
+---
 
-### 📑 NextUp
-```
-- WebXR (0)
-- WebGPU (0)
-- rust/wgpu (0)
-- rust/winapi (1)
-- svelte-kit (0)
-- CrotchDB (0)
-- Mastodon (0)
-- ReverseEngineering (1)
-- Qemu (1)
-- SteamDeck Kernel (0)
-```
+### 🪛 Skill
+
+#### 🧱 Stack
+![Forge (1)](https://img.shields.io/badge/-Forge-101010?style=for-the-badge&logo=curseforge&logoColor=f16436&color=rgba(0%2C0%2C0%2C0.8))
+![Node.js (3)](https://img.shields.io/badge/-Node.js-101010?style=for-the-badge&logo=node.js&logoColor=88c100&color=rgba(0%2C0%2C0%2C0.8))
+![Android (2)](https://img.shields.io/badge/-Android-101010?style=for-the-badge&logo=android&logoColor=3dd983&color=rgba(0%2C0%2C0%2C0.8))
+![React (3)](https://img.shields.io/badge/-React-101010?style=for-the-badge&logo=react&logoColor=24cff6&color=rgba(0%2C0%2C0%2C0.8))
+![Vue.js (1)](https://img.shields.io/badge/-Vue.js-101010?style=for-the-badge&logo=vuedotjs&logoColor=40b380&color=rgba(0%2C0%2C0%2C0.8))
+![AWS (1)](https://img.shields.io/badge/-Amazon%20AWS-101010?style=for-the-badge&logo=amazonaws&logoColor=f79500&color=rgba(0%2C0%2C0%2C0.8))
+![.Net (1)](https://img.shields.io/badge/-.Net-101010?style=for-the-badge&logo=dotnet&logoColor=4f2bcd&color=rgba(0%2C0%2C0%2C0.8))
+![WebGL (1)](https://img.shields.io/badge/-WebGL-101010?style=for-the-badge&logo=webgl&logoColor=e35158&color=rgba(0%2C0%2C0%2C0.8))
+![Unity (1)](https://img.shields.io/badge/-Unity-101010?style=for-the-badge&logo=unity&logoColor=ffffff&color=rgba(0%2C0%2C0%2C0.8))
+![Nextcloud (2)](https://img.shields.io/badge/-Nextcloud-101010?style=for-the-badge&logo=nextcloud&logoColor=007ec1&color=rgba(0%2C0%2C0%2C0.8))
+![Next.js (3)](https://img.shields.io/badge/-Next.js-101010?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&color=rgba(0%2C0%2C0%2C0.8))
+![NestJS (2)](https://img.shields.io/badge/-NestJS-101010?style=for-the-badge&logo=nestjs&logoColor=d9214c&color=rgba(0%2C0%2C0%2C0.8))
+![Unreal (1)](https://img.shields.io/badge/-Unreal%20Engine-101010?style=for-the-badge&logo=unrealengine&logoColor=ffffff&color=rgba(0%2C0%2C0%2C0.8))
+![Google Cloud (3)](https://img.shields.io/badge/-Google%20Cloud-101010?style=for-the-badge&logo=googlecloud&logoColor=4f8cee&color=rgba(0%2C0%2C0%2C0.8))
+![PostgreSQL (2)](https://img.shields.io/badge/-PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=305e8e&color=rgba(0%2C0%2C0%2C0.8))
+![Docker (3)](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=docker&logoColor=2596ee&color=rgba(0%2C0%2C0%2C0.8))
+![NHN Cloud 공공기관 (2)](https://img.shields.io/badge/-NHN%20Cloud%20%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80-101010?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNC4yLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCAxMjMuNSAzMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTIzLjUgMzAiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc%2BDQoJPHBhdGggZmlsbD0iI0ZBMjgyOCIgZD0iTTUzLjgsMTEuOWMtMS4xLDAtMS42LDAuMi0yLjMsMC44Yy0wLjcsMC43LTIuMywyLjMtMi42LDIuOGMtMC4yLDAuMi0wLjEsMC41LDAsMC43ICAgYzAuOCwxLjQsMi4zLDEuOCw0LjUsMS44aDE2LjNjMS4xLDAsMS42LTAuMiwyLjMtMC44YzAuNy0wLjcsMi4zLTIuMywyLjYtMi44YzAuMi0wLjIsMC4xLTAuNSwwLTAuN2MtMC44LTEuNC0yLjMtMS44LTQuNS0xLjggICBINTMuOHoiLz4NCgk8Zz4NCgkJPHBhdGggZmlsbD0iIzQ5NDk0OSIgZD0iTTk1LjgsOC43Yy0xLTAuNS0xLjUtMC42LTIuNC0wLjNjLTEsMC4zLTMuMSwxLTMuNiwxLjNjLTAuMywwLjEtMC4zLDAuNC0wLjMsMC42YzAuMSwxLjYsMS4zLDIuNywzLjIsMy43ICAgIGwxNC42LDcuNGMxLDAuNSwxLjUsMC42LDIuNCwwLjNjMS0wLjMsMy4xLTEsMy42LTEuM2MwLjMtMC4xLDAuMy0wLjQsMC4zLTAuNmMtMC4xLTEuNi0xLjMtMi43LTMuMi0zLjdMOTUuOCw4Ljd6Ii8%2BDQoJCTxwYXRoIGZpbGw9IiM0OTQ5NDkiIGQ9Ik04My42LDAuMWMtMC4yLTAuMS0wLjQtMC4yLTAuNywwYy0wLjUsMC4zLTIsMS44LTIuNiwyLjVjLTAuNiwwLjctMC44LDEuMS0wLjgsMi4xdjIwLjkgICAgYzAsMiwwLjQsMy40LDEuNyw0LjJjMC4yLDAuMSwwLjQsMC4yLDAuNywwYzAuNS0wLjMsMi0xLjgsMi42LTIuNWMwLjYtMC43LDAuOC0xLjEsMC44LTIuMVY0LjRDODUuNCwyLjMsODUsMC45LDgzLjYsMC4xeiIvPg0KCQk8cGF0aCBmaWxsPSIjNDk0OTQ5IiBkPSJNMTIxLjcsMC4xYy0wLjItMC4xLTAuNC0wLjItMC43LDBjLTAuNSwwLjMtMiwxLjgtMi42LDIuNWMtMC42LDAuNy0wLjgsMS4xLTAuOCwyLjF2MjAuOSAgICBjMCwyLDAuNCwzLjQsMS43LDQuMmMwLjIsMC4xLDAuNCwwLjIsMC43LDBjMC41LTAuMywyLTEuOCwyLjYtMi41YzAuNi0wLjcsMC44LTEuMSwwLjgtMi4xVjQuNEMxMjMuNSwyLjMsMTIzLjEsMC45LDEyMS43LDAuMXoiLz4NCgkJPHBhdGggZmlsbD0iIzQ5NDk0OSIgZD0iTTE2LjIsOC43Yy0xLTAuNS0xLjUtMC42LTIuNC0wLjNjLTEsMC4zLTMuMSwxLTMuNiwxLjNDOS45LDkuOCw5LjksMTAsOS45LDEwLjNjMC4xLDEuNiwxLjMsMi43LDMuMiwzLjcgICAgbDE0LjYsNy40YzEsMC41LDEuNSwwLjYsMi40LDAuM2MxLTAuMywzLjEtMSwzLjYtMS4zYzAuMy0wLjEsMC4zLTAuNCwwLjMtMC42Yy0wLjEtMS42LTEuMy0yLjctMy4yLTMuN0wxNi4yLDguN3oiLz4NCgkJPHBhdGggZmlsbD0iIzQ5NDk0OSIgZD0iTTQsMC4xQzMuOCwwLDMuNi0wLjEsMy40LDAuMWMtMC41LDAuMy0yLDEuOC0yLjYsMi41QzAuMiwzLjIsMCwzLjYsMCw0Ljd2MjAuOWMwLDIsMC40LDMuNCwxLjcsNC4yICAgIGMwLjIsMC4xLDAuNCwwLjIsMC43LDBjMC41LTAuMywyLTEuOCwyLjYtMi41YzAuNi0wLjcsMC44LTEuMSwwLjgtMi4xVjQuNEM1LjgsMi4zLDUuNCwwLjksNCwwLjF6Ii8%2BDQoJCTxwYXRoIGZpbGw9IiM0OTQ5NDkiIGQ9Ik00Mi4xLDAuMWMtMC4yLTAuMS0wLjQtMC4yLTAuNywwYy0wLjUsMC4zLTIsMS44LTIuNiwyLjVjLTAuNiwwLjctMC44LDEuMS0wLjgsMi4xdjIwLjkgICAgYzAsMiwwLjQsMy40LDEuNyw0LjJjMC4yLDAuMSwwLjQsMC4yLDAuNywwYzAuNS0wLjMsMi0xLjgsMi42LTIuNWMwLjYtMC43LDAuOC0xLjEsMC44LTIuMVY0LjRDNDMuOCwyLjMsNDMuNCwwLjksNDIuMSwwLjF6Ii8%2BDQoJPC9nPg0KPC9nPg0KPC9zdmc%2B&color=rgba(0%2C0%2C0%2C0.8))
+![Strapi (2)](https://img.shields.io/badge/-Strapi-101010?style=for-the-badge&logo=strapi&logoColor=8974f1&color=rgba(0%2C0%2C0%2C0.8))
+![Azure (1)](https://img.shields.io/badge/-Azure-101010?style=for-the-badge&logo=microsoftazure&logoColor=01b8ee&color=rgba(0%2C0%2C0%2C0.8))
+![Flutter (1)](https://img.shields.io/badge/-Flutter-101010?style=for-the-badge&logo=flutter&logoColor=02bdf0&color=rgba(0%2C0%2C0%2C0.8))
+![Proxmox VE (3)](https://img.shields.io/badge/-Proxmox%20VE-101010?style=for-the-badge&logo=proxmox&logoColor=e17000&color=rgba(0%2C0%2C0%2C0.8))
+![Linux Containers (2)](https://img.shields.io/badge/-Linux%20Containers-101010?style=for-the-badge&logo=linuxcontainers&logoColor=db4511&color=rgba(0%2C0%2C0%2C0.8))
+![Linux Kernel(0.01) (1)](https://img.shields.io/badge/-linux%20kernel(0.01)-101010?style=for-the-badge&logo=linux&logoColor=ffffff&color=rgba(0%2C0%2C0%2C0.8))
+![win32 (2)](https://img.shields.io/badge/-win32-101010?style=for-the-badge&logo=windowsxp&logoColor=d0cbc5&color=rgba(0%2C0%2C0%2C0.8))
+![Godot (2)](https://img.shields.io/badge/-Godot-101010?style=for-the-badge&logo=godotengine&logoColor=4589bb&color=rgba(0%2C0%2C0%2C0.8))
+![SQLite3 (3)](https://img.shields.io/badge/-SQLite3-101010?style=for-the-badge&logo=sqlite&logoColor=60b1dd&color=rgba(0%2C0%2C0%2C0.8))
+![PyTorch (1)](https://img.shields.io/badge/-PyTorch-101010?style=for-the-badge&logo=pytorch&logoColor=e7492b&color=rgba(0%2C0%2C0%2C0.8))
+
+#### 📑 NextUp
+![WebXR (0)](https://img.shields.io/badge/-WebXR-101010?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAGYktHRAD%2FAP8A%2F6C9p5MAAAAHdElNRQfnChQIDAj%2BI891AAAF6UlEQVRYw5WWX2gc1xWHv3Nndld%2F1orlWEZSYkchISmxUxUXGwqlNCgtTkJCaxXTpHVtUvepUPpUKJRiaAtu8tKH0hQqCqUUY5vYTUljJ9RyFOyWBoc0DY1lZMtSK%2B9a65UleVdaze7MPX2YkTxe7%2BwqBy5n5s6de75zzu8yI8TsneFhBDg3Oyu%2FHh%2FXM089RcXzaHNdPigU%2BMH586zHru3bx8CxYywdPEhnOs3ZYtEMPfSQfXtykj7HYfDUqbW1En%2FxzN69KGSyqdSPjGq%2FWnu05Hn%2FuN91ayvVKm2uy7%2Fn5jiUAHJleJjfXbrET3buJJtOsxQEPSnHecGIDFnVkbTjjP5nbo4dJ0%2BuvePGNxBVBDYZ1QOO6iPAN7tTqbdsEPw%2BgPNuEHg7Ojv56LnnyC8vs%2BfcuTDjvXuZWVpiczrNkd27Kfl%2B34rvfz1lzEFHdSeqjoH%2FAqO9bW13Qd8FYEKAZWPtnKg%2BIqobRfUl4PmsMe8E1o4ojInvVzYbw%2BVnnyWdStHlunyxp4fFIHiwXK1%2BwzXmgKgOYq0EgIhgVYsuMFMuJwMseR6FarX02a6uCYHdoopYi6huENVhVPe4IqO%2BtSMqMsrUVNn6Pjo4OLBYq%2B1zjPmOwHa1lkAk7G%2FoqwqXKtaCSDLA2NQUh554wpZ8f8IAhMHvDGs7RfV54GkXxmqp1J%2B6BgYGUsbsBx6z1saDhm0NAy5amBYgX60mA%2Bzq78er1TDWXhawompWgxNtLtaSKpfbOvL5PbXZ2aev5XJOz8MPy8beXnUzGYkrW%2B5km69ae0OBZ06fTgb4zfg4vxocRGBSoCSq98WyV7dU0vZcTjOzs8b1PHxwy5UKS8WiZru7dfPAgO3q6xO3rc2shRZBVadurKwsOnXlvwfg%2FPXryJNPIpAzcFPgPgkCdRcXbSaXI1MoiKlWHYAAsIADoCqVW7fk%2Bvy8zk9O6sZt24IN%2Ff3itrcbESGwdmJHd3ftjenpZIA%2FAp8HShMTzA4NFbZdvTrl3r79aGZmxqaKRSO1mmgUWKKhqwDRvVGV6sKCFBcWtHTtmm7YutV2PvCAOB0dn%2FxvfBzv4kXeBb4cP%2FoAZ4EHo809SHWIDEk2%2B6qzsrLD1Gp3L44BVIDZ1SO8ChF7boBUZ6cVkRG%2FXP7lZpjMR9C74nteBDLhfU8KfmrggMCG%2BqD1fgW4VQcgyTDjCoevwvGtYfHYFW%2FBMnRk4YjCy7YuWBKAri%2Fwqv%2BMwGuPQ9WBU1MxcNJhBb6k8GIQtSI%2BbIJf1UD9MMlz3S780IOuvnoRGtgeQHuzkserUV%2BBFtmveYVHFbYI3F4D8MOscgYCiYTdCkS4cwxbBa67Lqaj4GstqISCei%2BA8WYlb9SC1XLHy95oLvbszX4oOHGAG0AfXA%2Fgz%2FVBmg1dX8A1b%2BCmwuuLsXYagC4gH7biZAA31yPAJBG2gDlXgo8rwONxgK8QNqUIH%2FtwtlnQOJj9dNl7Akd7oNZRXwGAdmAT1AI4FoC3nuOofKrs%2F1WD9zxgtBHATChEPBgL4MNWAoyLsFX2kT%2FRA7deAw42AtgPfBXIwrwPJ1oJsJUG6uamBf6yDHyLu83Eb45GWvDhzQCmm1WhmQbq54DTb8GVOeD1ZgAvAvPAGZjw4a%2BthJikgbq5koFjXwPNAoebAQC0ha3QIGxDKUmI0fWCA9Vm2Qv8vQLvV4C3udfuAbgcCpEqvB%2FAhSZVuLoE33bgVQdqCdlbgeNbYHkL8PJ6AH5M%2BHOSgWU%2FPJJBgypc8eF73WGbfmbglThEzF%2BycGYJ%2BBuNzWk0%2BbmoFRYKAs8obCHqOXDFwqEMvPtPYDcEBi644Bj4ghP61S%2FfSAe8kSf83WtkptHk94GbwP2Q8%2BF4LPsJH77rwlgxqpQbZuEJ%2FNyBIwZqUfZ5hRPVKJkkc5MetBN%2BpCz81oUegW3AKxm4MB%2BRvxStrYRi8xR%2BASwq7FH4Qw4%2B2kR4vJNMkh4cBrYT%2FisUwEmD2wteMcpof936alSldiAP7b1QKUWg2SYA%2FwcoAtgOuOmpKAAAACh0RVh0Q29tbWVudABDcm9wcGVkIHdpdGggZXpnaWYuY29tIEdJRiBtYWtlclmQRc0AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMTAtMjBUMDg6MTE6MzkrMDA6MDDr50WQAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTEwLTIwVDA4OjExOjM5KzAwOjAwmrr9LAAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0xMC0yMFQwODoxMjowOCswMDowMA5ga6cAAAASdEVYdFNvZnR3YXJlAGV6Z2lmLmNvbaDDs1gAAAAASUVORK5CYII%3D&color=rgba(0%2C0%2C0%2C0.8))
+![WebGPU (0)](https://img.shields.io/badge/-WebGPU-101010?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAMAAAAQExzYAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAIBUExURQBjqwBmsACT%2FwBruABmrwBanABcngBYnAAAAACG6QCG6ACF6ACF5wB60gCJ7QB2zAB3zQADBQBcnQBwwgBBcQB2zQBanQBAgABbnwBanABanABanABanABcnwBjqwCT%2FwCT%2FwBanABanABanABgpQBmsACT%2FwCT%2FwCT%2FwBanABanABcnwBmsABmsACT%2FwCT%2FwCT%2FwCT%2FwBanABanABhqABmsABWlQCU%2FwCT%2FwCT%2FwBanABdoQBlrwBmsABmsACV%2FwCU%2FwBanABanABbnQBiqgBruACL8QCO9gCO9QBanABanABeowBmsACG6ACG6ABanABanABbngBkrACG6ABanABanABgpgCG6ACG6ABanABanABkrQB%2F3ACH6QBanABlrgB0yQCL8ABanABamwBwwQB2zQB2zAB2ywBanABanABanAB2zAB2zAB2zABanABanAB2zAB2zAB2zAB2zABanABanABanAB2zAB2zAB2zABanAB2zAB2zAB2zAB2zABanABanAB2zAB2zAB2zAB2zABanABanAB2zAB2zAB2zAB2zABanABanABanAB2zAB2zAB2zABanABanAB2zAB2zABanABanAB2zAB2zABanABlrgBmsACT%2FwCO9gBnsQB60wCG6QCG6ABmrwBsugCC4gB2zABcnwBptQBuvQBtvf%2F%2F%2FwFSl3kAAACZdFJOUwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABKdHJzbBsXBlTv%2FvyHDaJGBp796Tdf%2FbYMMOT8pwUazvqC%2Ff71UXshHdL%2B%2Fdrn%2FXRk%2B%2F3%2B4jgOuv7%2Bfkjy%2Fc8bBZ%2F%2B%2BmD53rUMgbpG5vBD0fNLhpgDY6If1eArueYzaPx5hBC9yxjUHkvz%2BVv8ZwWhsguAvA8y50DCTYOTLgoXHBzm%2FAUAAAABYktHRKq%2BBle%2BAAAAB3RJTUUH5woUCBEvpEUWAgAAAW9JREFUKM9l0WVXAkEYhuFldXTFGBO7EwNbscXuLuzExO7u7sYFddE1%2FqWzAQL7fL2vM%2Be8ZzBvH1%2Fh%2FPwDMBGOBwbhOBYcogkVLizcyhqPiIxCQBqtES7mJTZOhMviExJxDCQlC3poCkmmpqXLtRkyBECmAGRlk2RObp5Wq5XnI6AosOiFRSRacYlOpystw2xsQXmFOaisYsDr2ztFVddgBAC1dWa9voHppP7jk6Ia7TACiaZmU9BC8qOp1jYxC5TtJv2rg%2B%2F6784usT0CSJic2t3z82tYb5%2BDmAOg3wgGBodofqphRyeCAUgoRvg%2BOgbGDWBCDZ054OIKJvlTp6Ru0zNcn52DkOAAc%2Bo82xcWgTtcWmbBCoQeBmA8dVUCIFxbZ%2FrGJvPAP1Ayv7q1DQAB4c4uTe%2Fts90AuFMPDoHEE4GjY5o%2BObUE4ExzfoEeIJC4vFJdc90ImFNvbtmOALy7V1sCwgs8PHIAiadnvhN%2F7MPds412m88AAAAodEVYdENvbW1lbnQAQ3JvcHBlZCB3aXRoIGV6Z2lmLmNvbSBHSUYgbWFrZXJZkEXNAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIzLTEwLTIwVDA4OjE3OjQwKzAwOjAweaR5HQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMy0xMC0yMFQwODoxNzo0MCswMDowMAj5waEAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjMtMTAtMjBUMDg6MTc6NDcrMDA6MDCaS97wAAAAEnRFWHRTb2Z0d2FyZQBlemdpZi5jb22gw7NYAAAAAElFTkSuQmCC&color=rgba(0%2C0%2C0%2C0.8))
+![wgpu (0)](https://img.shields.io/badge/-wgpu-101010?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAbCAYAAAAdx42aAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAGYktHRAD%2FAP8A%2F6C9p5MAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfnChQIFCU55wtZAAAF%2B0lEQVRIx52VW2ycVxWFv7XP%2Bf%2FxjD2%2BxDN27Nhx7MSO43Fat01ahYqqCEGJBAhEH7gIAQIhUKGASlMkEE%2BIm0BtBYgKCYRUXsqlSPDEA4LXCBGkqpAKU4ES1BKcy0PS4IxnzubhH8ceZxxBj7Sk%2F3LO2eusvdfZYts4fyf4OjjMAtck1pTD9Au8rnHwk2t4ywGGgTqwqihe%2Fn795hzbvsDKQARF3q7IxzHA4Z%2F3%2Fv%2FBDz16kdQCBVDQ%2B2W8Twap3T2vi4A34cyfQTkrynnU%2BjimHBRfx%2FHNCSVQ1AKBx4i6R5liyG5DQBkcv48By1lQxpgyTimnDPDKg%2F977PnHLxYPkUjgcwrMKTBHYIQdh%2Bl6VQ7AGM6Mik%2FvRDyMePajv4cLD8H4b%2BDJ1WUUHHxzIdAWn51%2FsThVhJQEzkPABzqzJoF9wNriqSu89M2RbgUuvKMgoJxZ5dQ6zyXlPK6cmR%2B9Bbwjn28YtAXGGMakt0XaKLZa%2BOIlPIECdQJfIFAlAIEhAgsESFm6NQXqK1KgjCPKKXcIoIyjyvi0lTAcnjp9Jzh4SyVv2le8aU%2FRVhWHb525CxxkDoGPKXK%2FiqJGkaBIQxFo9agBb1Iwz1m%2BGXyLxEeIPKgcXjpWw5tGaoYPp6Z9KDXtPelG%2BFT7RmCgfKEo2Gh3K%2BoRBUlRbENDmWIn1TsUyCEM0a%2BcxVsI5OxRxhPKGH7jz86RmnYiNe1Lvh5yXw%2BWmvZ5Wjr593MPoOhlAqcI7CNCR%2F5NzBMY3l55cTsBoI5zYJfifrM5H%2Fzr%2FtGfVprtr0k%2B5Vv%2F9uD66sTAH862yd8QYutdu%2Bwx2cHFLgKXH4H0GlDcgPVdFgeCPjN74fqDrw6WH5Dv%2BCtfudK6%2B3vlcnO62bKSeu8xDMwDLyx9%2Bwp%2FeazjSuWgDQAWgUrPpQ7ZUn1uqVaZ%2B9dVU%2FJbpwzW3nry6KHImb8ldhkRaAC%2F4IZvS0ELZKDIcs%2FYDlavpnjfAR0eyFm97unla262eUxPxP5GKg%2Bf1D3VyNrVVjq%2F5qZeMogGIhBpQ6cIlYP1U1HOkR4OwAYzz07MYYMV9Znp%2BJDR1wreXg%2BkdcM3Brw0%2BjDEEZVLrhNLxmAVJ9y04BYC8zKGFAo%2BBYHC%2F3XlHNgZXH0iW5nxsG%2FUcMPdmO4PtlQNntYDaV3Egfs9Dt2rlJx2grFh2fGF4LFUkCB2YYrIJBGWf3gZu%2Fb1mwFnlDO2U4EwN57C4f0SAcmQjGDGsTHTiMmdce%2BbfDeoJHdwF8nF%2FITpyFRwolDowoiCDikImWHbgi0qp79L%2Bno1xTvmpSxXIVZhZvfAnnLQ8b2RysTbsIGDljyRoICDhFYOmCb2KHl3KqIiDQVoXUqYb%2FbsnOVOKgr0Zx6XD2MDVcmFsG64sTzRd3Zw%2Bk1%2Fchc7kVxUcun4bGCgIvcg2EJDuSzWA1ElAMo4R7a6mwhzc25je40eduu4cqMa%2FvON17Lpy8FvPNfLvu4wNiBbmbJ0%2BnwiOZu%2BWACGBFeiig5Xw5nbXGi1vSnMHFQh%2BS4M4HfCf3mZcGPU%2BRXw3l6TBByqmS6u46uXkjrfphETwBWzHCxn%2F2YB2lDVw1xDin0q5A69cBXsyTaVqyNpvenoaUdrjtiJhDBJd4yb6lVLBEHUCEEHCcI6OV%2B0nAErZx5mll2VYeHquLQnnhf2WwjgjrtOu%2FNs4YJb0Xboz6SVcaPShxPIFFlSACOCchrKwSbm3UamTBhS2A2vCvuOCBtbuXZ355nkrKZOAW6Hu2i7GK%2BYLY0GD5kgaFm5zKxMWTlHbGQSqy%2BqaOh2O%2Fx448W5P6Li3YE2RnJW3fWMO76bEsnh4KBpf1UQmccYNgXG1D80a2MrKJQlelhuC2eF%2FSA%2Feq5oJMs%2F59RSBcM7OecnDqd3I%2BAOJtQYDtTKmtowpkyDtVmr3VVTqZaEJRF2QxPCd4X9A0pd3niiUcYM3PXv5Ho6oesJpZ5wpf6g1BgMQ1MVW4g2ePQVSpNfLq6j247rgucLY20QG891%2FWy3C4mBXwOfoOj9u90hjGbyhX5b%2FS8CwwYw%2Fsu72wAAACh0RVh0Q29tbWVudABDcm9wcGVkIHdpdGggZXpnaWYuY29tIEdJRiBtYWtlclmQRc0AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMTAtMjBUMDg6MjA6MzMrMDA6MDA5txfhAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTEwLTIwVDA4OjIwOjMzKzAwOjAwSOqvXQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0xMC0yMFQwODoyMDozNyswMDowMOuwqpEAAAASdEVYdFNvZnR3YXJlAGV6Z2lmLmNvbaDDs1gAAAAASUVORK5CYII%3D&color=rgba(0%2C0%2C0%2C0.8))
+![rust/winapi (1)](https://img.shields.io/badge/-rust%2Fwinapi-101010?style=for-the-badge&logo=windowsxp&logoColor=d0cbc5&color=rgba(0%2C0%2C0%2C0.8))
+![Svelte Kit (0)](https://img.shields.io/badge/-Svelte%20Kit-101010?style=for-the-badge&logo=svelte&logoColor=fb3d00&color=rgba(0%2C0%2C0%2C0.8))
+![Cockroach DB (0)](https://img.shields.io/badge/-Cockroach%20DB-101010?style=for-the-badge&logo=cockroachlabs&logoColor=6a35ff&color=rgba(0%2C0%2C0%2C0.8))
+![Mastodon (0)](https://img.shields.io/badge/-Mastodon-101010?style=for-the-badge&logo=mastodon&logoColor=5a46da&color=rgba(0%2C0%2C0%2C0.8))
+![Reverse Engineering (1)](https://img.shields.io/badge/-RE-101010?style=for-the-badge&color=rgba(0%2C0%2C0%2C0.8))
+![QEMU (1)](https://img.shields.io/badge/-QEMU-101010?style=for-the-badge&logo=qemu&logoColor=f56300&color=rgba(0%2C0%2C0%2C0.8))
+![SteamDeck Kernel (0)](https://img.shields.io/badge/-SteamDeck%20Kernel-101010?style=for-the-badge&logo=steamdeck&logoColor=1b9dff&color=rgba(0%2C0%2C0%2C0.8))
